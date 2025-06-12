@@ -1,0 +1,71 @@
+{
+  "student": {
+    "id": "stu123",
+    "name": "Ellis Lunnon"
+  },
+  "enrolledCourses": [
+    {
+      "id": "cs101",
+      "name": "Intro to Computer Science",
+      "startsAt": "2025-07-01T09:00:00+08:00"
+    },
+    {
+      "id": "eng202",
+      "name": "Engineering Ethics",
+      "startsAt": "2025-07-03T14:00:00+08:00"
+    },
+    {
+      "id": "hist300",
+      "name": "Modern History and Global Change",
+      "startsAt": "2025-07-04T11:00:00+08:00"
+    },
+    {
+      "id": "math210",
+      "name": "Advanced Calculus",
+      "startsAt": "2025-07-05T13:00:00+08:00"
+    }
+  ],
+  "upcomingEvents": [
+    {
+      "id": "event445",
+      "title": "Campus Orientation",
+      "location": "Main Hall",
+      "startTime": "2025-07-02T10:00:00+08:00"
+    },
+    {
+      "id": "event452",
+      "title": "Hackathon Kickoff",
+      "location": "Innovation Lab",
+      "startTime": "2025-07-07T09:00:00+08:00"
+    },
+    {
+      "id": "event457",
+      "title": "Mental Health Awareness Seminar",
+      "location": "Auditorium A",
+      "startTime": "2025-07-09T15:30:00+08:00"
+    },
+    {
+      "id": "event460",
+      "title": "Student Union Elections",
+      "location": "Online",
+      "startTime": "2025-07-10T00:00:00+08:00"
+    }
+  ],
+  "notifications": [
+    {
+      "id": "notif789",
+      "message": "Your course schedule has been updated.",
+      "read": false
+    },
+    {
+      "id": "notif790",
+      "message": "Hackathon registration closes in 2 days.",
+      "read": false
+    },
+    {
+      "id": "notif791",
+      "message": "You have a new message from your tutor.",
+      "read": true
+    }
+  ]
+}
